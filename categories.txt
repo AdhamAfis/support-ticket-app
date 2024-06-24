@@ -1,0 +1,54 @@
+Networking:
+    Slow internet
+    Connection drops
+    DNS resolution issues
+    Limited connectivity
+    VPN not connecting
+Hardware:
+    Computer won't turn on
+    Printer not working
+    Monitor displaying no signal
+    External hard drive not recognized
+    Keyboard or mouse not responding
+Software:
+    Application crashes
+    Cannot install software
+    Operating system update failure
+    Software license activation issues
+    Browser keeps crashing
+Email:
+    Unable to send emails
+    Emails stuck in outbox
+    Cannot receive emails
+    Email attachments not opening
+    Spam filter issues
+Security:
+    Virus or malware infection
+    Firewall blocking access
+    Phishing or scam emails
+    Two-factor authentication not working
+    Data encryption issues
+Account Management:
+    Forgot password
+    Account locked out
+    Cannot reset security questions
+    Payment method update failure
+    Subscription renewal problems
+Mobile Devices:
+    Phone overheating
+    Touchscreen not responding
+    Apps crashing on startup
+    Battery draining quickly
+    GPS not working
+Peripherals:
+    Scanner not recognized
+    Headphones not working
+    Webcam not detected
+    Game controller not responsive
+    Projector displaying no input
+General IT Support:
+    Slow system performance
+    Unexpected restarts or shutdowns
+    Bluetooth connectivity issues
+    System fan noise
+    Disk full or running out of storage
